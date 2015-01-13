@@ -1,11 +1,11 @@
 ## Phonetic Analysis in Pure Data
 
-This folder contains two patches (i.e. programs) for *Pure Data* (pD) that I
+This folder contains two patches (i.e. programs) for *Pure Data* (Pd) that I
 wrote for a term paper/project in the context of a course on voice quality in
-2012. They are a first attempt to using pD as a tool for on-line phonetic
+2012. They are a first attempt to using Pd as a tool for on-line phonetic
 analysis.
 
-pD is a visual programming environment for dataflow programming,
+Pd is a visual programming environment for dataflow programming,
 especially audio and video manipulation. For more information check out
 [puredata.info](http://puredata.info).
 
